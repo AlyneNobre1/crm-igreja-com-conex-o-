@@ -1,6 +1,6 @@
 # Casa de Deus — CRM Web
 
-CRM web funcional e minimalista desenvolvido para a gestão pastoral, ministerial e acompanhamento de contatos e membros da igreja **CASA DE DEUS** nas congregações:
+CRM web funcional e minimalista desenvolvido para a gestão pastoral, ministerial e acompanhamento de contatos e membros da igreja **CASA DE DEUS** nas congregações :
 - **RECREIO**
 - **CURICICA**
 - **GUARATIBA**
